@@ -1,6 +1,6 @@
 # Serverless Framework Node Scheduled Cron on AWS
 
-This template demonstrates how to develop and deploy a simple cron-like service running on AWS Lambda using the traditional Serverless Framework.
+It is the Serverless Framework Node Scheduled Cron on AWS that claim and swap KLIMA tokens for USDC on SushiSwap.
 
 ## Schedule event type
 
